@@ -10,9 +10,9 @@ Este repositório tem como objetivo centralizar e documentar todos os testes de 
 * **Melhorias:** Sugestões para aprimorar o processo de testes e a qualidade do software.
 
 ## Tecnologias Utilizadas
-* **Ferramentas de teste:** [Cypress]
-* **Linguagens de programação:** [JavaScript]
-* **Framework de testes:** []
+* **Ferramentas de teste:** Cypress
+* **Linguagens de programação:** JavaScript
+* **Framework de testes:**
 
 ## Como Contribuir
 1. **Forkar o repositório:** Crie uma cópia do repositório em sua conta.
@@ -22,8 +22,8 @@ Este repositório tem como objetivo centralizar e documentar todos os testes de 
 5. **Criar um pull request:** Envie um pull request para o branch principal.
 
 ## Guia de Contribuição
-* **Convenções de código:** [Definir as convenções de código a serem seguidas, como estilo de codificação, nomenclatura de variáveis, etc.]
-* **Estrutura de diretórios:** [Explicar a organização dos arquivos e diretórios do repositório.]
+* **Convenções de código:** Definir as convenções de código a serem seguidas, como estilo de codificação, nomenclatura de variáveis, etc.
+* **Estrutura de diretórios:** Explicar a organização dos arquivos e diretórios do repositório.
 
 ## Contato
-Para entrar em contato ou obter mais informações, por favor, envie um e-mail para [dev.junior.leal@gmail.com] ou abra uma issue neste repositório.
+Para entrar em contato ou obter mais informações, por favor, envie um e-mail para dev.junior.leal@gmail.com ou abra uma issue neste repositório.
